@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**jade-arinal-banares/jade-arinal-banares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GitHub Highlights: :fire:
+<div align="center">
+  <a href="https://www.linkedin.com/in/jade-bañares-10324b211/" target="_blank">
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jade-arinal-banares&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+  -
+  <a href="https://www.linkedin.com/in/jade-bañares-10324b211/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jade-arinal-banares&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</a>
