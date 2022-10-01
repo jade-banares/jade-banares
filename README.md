@@ -8,6 +8,6 @@
 <br>
 <div align="center">
   <a href="https://portfolio-pvix.vercel.app/" target="_blank">
-     <img src="HsdjdhclawIDU.png" width="350"/>
+     <img src="JksdjhJskldkmvf.svg" width="450" />
   </a>
 </div>
