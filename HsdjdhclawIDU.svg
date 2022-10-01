@@ -3,13 +3,13 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 392.1 101.4" style="enable-background:new 0 0 392.1 101.4;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#191B27;}
-	.st1{font-family:'Yorkside';}
-	.st2{font-size:81.2824px;}
+	.st0{font-family:'Yorkside';}
+	.st1{font-size:81.2824px;}
+	.st2{fill:#191B27;}
 	.st3{fill:#6E2E92;}
 	.st4{fill:#8951A0;}
 </style>
-<text transform="matrix(1.0007 0 0 1 12.2976 72.1752)"><tspan x="0" y="0" class="st0 st1 st2">Hi! I am </tspan><tspan x="225.2" y="0" class="st3 st1 st2">Jade</tspan><tspan x="337.2" y="0" class="st4 st1 st2"> </tspan></text>
+<text transform="matrix(1.0007 0 0 1 12.2976 72.1752)"><tspan x="0" y="0" class="st0 st1">Hi! I am</tspan><tspan x="205.3" y="0" class="st2 st0 st1"> </tspan><tspan x="225.2" y="0" class="st3 st0 st1">Jade</tspan><tspan x="337.2" y="0" class="st4 st0 st1"> </tspan></text>
 <path d="M336.2-5.5"/>
 <g>
 	<g>
