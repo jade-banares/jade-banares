@@ -7,7 +7,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://portfolio-pvix.vercel.app/" target="_blank">
+  <a href="https://jade-banares.vercel.app" target="_blank">
      <img src="HsdjdhclawIDU.png" width="350" />
   </a>
 </div>
