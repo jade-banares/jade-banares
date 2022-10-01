@@ -7,8 +7,4 @@
 </div>
 
 <br>
-<div align="center">
-  <a href="https://portfolio-pvix.vercel.app/" target="_blank">
-    <img src="HsdjdhclawIDU.svg" width="60%" alt="I am Jadee"/>
-  </a>
-</div>
+
