@@ -4,12 +4,6 @@
 	 viewBox="0 0 550.3 244.2" style="enable-background:new 0 0 550.3 244.2;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#22272E;}
-	.st1{fill:#FFFFFF;}
-	.st2{font-family:'Yorkside';}
-	.st3{font-size:81.2824px;}
-	.st4{fill:#191B27;}
-	.st5{fill:#6E2E92;}
-	.st6{fill:#8951A0;}
 </style>
 <ellipse transform="matrix(0.842 -0.5395 0.5395 0.842 -12.5398 198.8692)" class="st0" cx="333.2" cy="120.8" rx="76.5" ry="64.3"/>
 <ellipse transform="matrix(0.842 -0.5395 0.5395 0.842 -61.1518 116.323)" class="st0" cx="168" cy="162.6" rx="76.5" ry="64.3"/>
@@ -22,7 +16,6 @@
 <ellipse transform="matrix(0.842 -0.5395 0.5395 0.842 -64.1359 56.7959)" class="st0" cx="64.9" cy="137.9" rx="53.6" ry="44.9"/>
 <circle class="st0" cx="92.7" cy="190.7" r="44.9"/>
 <ellipse transform="matrix(0.842 -0.5395 0.5395 0.842 -23.8493 113.1878)" class="st0" cx="181.3" cy="97.3" rx="76.5" ry="64.3"/>
-<text transform="matrix(1.0007 0 0 1 66.8708 160.2262)"><tspan x="0" y="0" class="st1 st2 st3">Hi! I am</tspan><tspan x="205.3" y="0" class="st4 st2 st3"> </tspan><tspan x="225.2" y="0" class="st5 st2 st3">Jade</tspan><tspan x="337.2" y="0" class="st6 st2 st3"> </tspan></text>
 <rect x="54.6" y="88.1" class="st0" width="379.1" height="101.4"/>
 <path d="M390.7,82.5"/>
 <g>
@@ -794,6 +787,6 @@ cwIAAADAxrHlbcR9f5+pOAsJ13/87j89+u1KP2GgqT6sUZip2DZC+B++8101SPQtQA3QnAAAAACw
 ccLI2GyVZVIt2ggAKaA5AQAAAAAAoBZoTgAAAAAAAKgFmhMAAAAAAABqgeYEAAAAAACAWqA5AQAA
 AAAAoBZoTgAAAAAAAKgFmhMAAAAAAABqgeYEAAAAAACAWqA5AQAAAAAAoBZoTgAAAAAAAKgFmhMA
 AAAAAABqgeYEAAAAAACAWqA5AQAAAAAAoBZoTgAAAAAAAKgFmhMAAAAAAADqcO4//y/PI7C1cU1x
-dgAAAABJRU5ErkJggg==" transform="matrix(0.3116 0 0 0.3301 61.3552 84.4041)">
+dgAAAABJRU5ErkJggg==" transform="matrix(0.3116 0 0 0.3301 54.5732 84.4041)">
 </image>
 </svg>
