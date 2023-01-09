@@ -7,7 +7,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://jade-banares.vercel.app" target="_blank">
+  <a href="#" target="_blank">
      <img src="HsdjdhclawIDU.png" width="350" />
   </a>
 </div>
