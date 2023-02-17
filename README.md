@@ -9,6 +9,6 @@
 <div align="center">
   <a href="#" target="_blank">
      <img src="HsdjdhclawIDU.png" width="350" />
-    <br><img src="https://imgur.com/WCij6GE.gif" style="width: 100px">
+    <br><img src="https://imgur.com/WCij6GE.gif" width="350">
   </a>
 </div>
