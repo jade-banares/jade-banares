@@ -5,6 +5,8 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jade-banares&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </div>
+<br>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jade-banares&label=Profile%20views&color=0e75b6&style=flat" alt="jadebanares" /> </p>
 <br>
 <div align="center">
