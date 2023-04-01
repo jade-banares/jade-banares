@@ -6,8 +6,6 @@
   </a>
 </div>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jade-banares&label=Profile%20views&color=0e75b6&style=flat" alt="jadebanares" /> </p>
-<br>
 <div align="center">
   <a href="#" target="_blank">
      <img src="HsdjdhclawIDU.png" width="350" />
