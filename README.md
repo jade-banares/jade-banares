@@ -8,6 +8,6 @@
 <br>
 <div align="center">
   <a href="#" target="_blank">
-     <img src="HsdjdhclawIDU.png" width="450" />
+     <img src="HsdjdhclawIDU.png" width="350" />
   </a>
 </div>
