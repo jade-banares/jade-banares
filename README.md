@@ -9,5 +9,6 @@
 <div align="center">
   <a href="#" target="_blank">
      <img src="HsdjdhclawIDU.png" width="350" />
+    <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" />
   </a>
 </div>
