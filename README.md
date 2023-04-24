@@ -1,5 +1,5 @@
 
-## 👋 Short Info About Me
+## 👋 About Me
 
 Hi I am Jade Bañares, Front-end Developer from Makati City, specialize in creating a visually appealing websites. I am passionate about learning new things, latest technologies, and skills that I can use for my future work and projects. If you have any question kindly message me on skype.
 
@@ -27,7 +27,7 @@ Hi I am Jade Bañares, Front-end Developer from Makati City, specialize in creat
 ![Adobe Illustrator](https://img.shields.io/badge/-Gitlab-1d1f21?style=flat&logo=AdobeIllustrator&logoColor=FF9A00)
 ![Adobe Photoshop](https://img.shields.io/badge/-Gitlab-1d1f21?style=flat&logo=AdobePhotoshop&logoColor=00C8FA)
 
-### GitHub Highlights: :fire:
+### 🔥 GitHub Highlights
 <div align="center">
   <a href="https://commits.top/philippines_public.html" target="_blank">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jade-banares&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
