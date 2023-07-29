@@ -1,6 +1,6 @@
 ### 🔥 GitHub Highlights
 <div align="center">
-  <a href="https://commits.top/philippines_public.html" target="_blank">
+  <a href="https://jade-music-playlist.pages.dev/" target="_blank">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jade-banares&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </div>
@@ -12,11 +12,13 @@
 
 ## 👋 About me
 
-Hi I'm Jade a Front-end developer from Makati, Philippines. I am a self-taught developer who highly passionate about learning new things, latest technologies and skills that I can use for my future work & projects.
+<p align="justify">
+  Hi I'm <strong>Jade</strong> a <strong>Front-end developer</strong> from Makati, Philippines. I am a self-taught developer who highly passionate about learning new things, latest technologies and skills that I can use for my future work & projects.
+</p>
 
 <!-- Skills -->
 
-## 🔧 Technologies and Tools
+## 💻 Technologies and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
 ![AMP](https://img.shields.io/badge/-AMP_HTML-1d1f21?style=flat&logo=amp&logoColor=085ff0)
@@ -43,52 +45,52 @@ Hi I'm Jade a Front-end developer from Makati, Philippines. I am a self-taught d
 <!-- Featured Project -->
 ## 📂 Featured Projects
 <table bordercolor="#66b2b2">
-  
   <tr>
     <td width="50%" valign="top">
-      <h3>Bookmark Landing page</h3>
-        <br />
-        <p align="center">
-          <a target="_blank" href="https://bookmark-by-jade.pages.dev/" >
-            <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/hwi1ergmy7tibqa5bvyf.jpg" width="80%"  alt="Bookmark Landing Page"/>
-          </a>
-        </p>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/data-sets/bookmark-landing-page" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://bookmark-by-jade.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, SCSS, Javascript, Framer-motion  & React JS</strong> - A simple bookmark landing page with tabbed features and faq accordion</p>
-        <br>
-    </td>
-    <td width="50%" valign="top">
-      <h3>My Team Multi-page Website</h3>
-        <br />
-        <p align="center">
-          <a target="_blank" href="https://multi-page-by-jade.pages.dev/">
-            <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/vivqu9zlxbcv5mgxdjxq.jpg" width="80%"  alt="Multi Page Website"/>
+      <h3 align="center">Bookmark Landing page</h3>
+      <br />
+      <div align="center">
+        <a target="_blank" href="https://bookmark-by-jade.pages.dev/">
+          <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/hwi1ergmy7tibqa5bvyf.jpg" width="90%" alt="Bookmark Landing Page" />
         </a>
         </p>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/data-sets/multi-page" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://multi-page-by-jade.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=wordpress&logo-color=white"/>
-  </a>
+          <a href="https://github.com/data-sets/bookmark-landing-page" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logoColor=fff" />
+          </a>
+          <a href="https://bookmark-by-jade.pages.dev/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=icloud&logoColor=fff" />
+          </a>
+      </div>
+      <p align="justify">
+        <strong>HTML, SCSS, Javascript, Framer-motion & React JS</strong> - A simple bookmark landing page with tabbed features and faq accordion
       </p>
-        <p><strong>HTML5, CSS3, React JS, SCSS & Framer-motion</strong> - Professional Front-end Developer's workflow. 3-page fully-functional website</p>
+      <br>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">My Team Multi-page Website</h3>
+      <br />
+      <p align="center">
+        <a target="_blank" href="https://multi-page-by-jade.pages.dev/">
+          <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/vivqu9zlxbcv5mgxdjxq.jpg" width="90%" alt="Multi Page Website" />
+        </a>
+      </p>
+      <br />
+      <div align="center">
+        <a href="https://github.com/data-sets/multi-page" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logoColor=fff" />
+        </a>
+        <a href="https://multi-page-by-jade.pages.dev/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=wordpress&logoColor=fff" />
+        </a>
+      </div>
+      <br>
+      <p align="justify">
+        <strong>HTML5, CSS3, React JS, SCSS & Framer-motion</strong> - Professional Front-end Developer's workflow. 3-page fully-functional website
+      </p>
     </td>
   </tr>
-  
-
 </table>
 
 <!--End of Featured Project -->
