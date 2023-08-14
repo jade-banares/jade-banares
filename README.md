@@ -45,6 +45,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
 ![Xampp](https://img.shields.io/badge/-Xampp-1d1f21?style=flat&logo=XAMPP&logoColor=fb7e2b)
 ![ReactJS](https://img.shields.io/badge/-React_JS-1d1f21?style=flat&logo=React&logoColor=66dbfb)
+![Npm](https://img.shields.io/badge/-npm-1d1f21?style=flat&logo=NPM&logoColor=cd3e3d)
 
 <!-- End of Skills Section -->
 
