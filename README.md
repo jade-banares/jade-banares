@@ -46,6 +46,7 @@
 ![Xampp](https://img.shields.io/badge/-Xampp-1d1f21?style=flat&logo=XAMPP&logoColor=fb7e2b)
 ![ReactJS](https://img.shields.io/badge/-React_JS-1d1f21?style=flat&logo=React&logoColor=66dbfb)
 ![Npm](https://img.shields.io/badge/-npm-1d1f21?style=flat&logo=NPM&logoColor=cd3e3d)
+![GoogleAd](https://img.shields.io/badge/-Google_Adsense-1d1f21?style=flat&logo=GoogleAdsense&logoColor=F5BB18)
 
 <!-- End of Skills Section -->
 
