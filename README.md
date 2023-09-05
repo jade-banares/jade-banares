@@ -5,7 +5,7 @@
   <a href="https://jade-music-playlist.pages.dev/" target="_blank">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jade-banares&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
-  
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6487be4ee4bf41c65b04c35f?variant=dark" alt="roadmap.sh"/></a>
 </div>
 <!-- End of Highlight -->
 
