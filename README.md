@@ -26,7 +26,7 @@
 <!-- Skills -->
 
 ## 💻 Technologies and Tools
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6487be4ee4bf41c65b04c35f?variant=dark)](https://roadmap.sh)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
 ![AMP](https://img.shields.io/badge/-AMP_HTML-1d1f21?style=flat&logo=amp&logoColor=085ff0)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
