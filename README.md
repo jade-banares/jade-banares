@@ -5,6 +5,7 @@
   <a href="https://jade-music-playlist.pages.dev/" target="_blank">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jade-banares&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6487be4ee4bf41c65b04c35f?variant=dark)](https://roadmap.sh)
 </div>
 <!-- End of Highlight -->
 
@@ -17,7 +18,7 @@
 ## 👋 About me
 
 <p align="justify">
-  Hi I'm <strong>Jade</strong> a <strong>Front-end developer</strong> from Makati, Philippines. I am a self-taught developer who highly passionate about learning new things, latest technologies and skills that I can use for my future work & projects.
+  Hi, I'm <strong>Jade</strong> a <strong>Front-end developer</strong> from Makati, Philippines. I am a self-taught developer who highly passionate about learning new things, latest technologies and skills that I can use for my future work & projects.
 </p>
 
 <!-- End of About -->
