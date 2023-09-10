@@ -9,7 +9,7 @@
 <!-- End of Highlight -->
 
 
-[![Visits](https://komarev.com/ghpvc/?username=hisui-banares&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://github.com/jade-banares)
+[![Visits](https://komarev.com/ghpvc/?username=jade-banares&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://github.com/jade-banares)
 [![Gmail](https://img.shields.io/badge/Email_Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:codewithjad3@gmail.com)
 
 <!-- About Section -->
