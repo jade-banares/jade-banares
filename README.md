@@ -17,7 +17,7 @@
 ## 👋 About me
 
 <p align="justify">
-  Hi, I'm <strong>Jade</strong> a <strong>Front-end developer</strong> from Makati, Philippines. I am a self-taught developer who highly passionate about learning new things, latest technologies and skills that I can use for my future work & projects.
+  Hello, my name is <strong>Jade</strong>, and I'm a front-end developer from Makati, Philippines. I am a self-taught developer who is really excited about learning new things, cutting-edge technologies, and skills I may apply to my job and projects in the future. 
 </p>
 
 <!-- End of About -->
@@ -90,7 +90,7 @@
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logoColor=fff" />
         </a>
         <a href="https://multi-page-by-jade.pages.dev/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=wordpress&logoColor=fff" />
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=icloud&logoColor=fff" />
         </a>
       </div>
       <br>
