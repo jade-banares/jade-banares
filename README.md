@@ -1,29 +1,35 @@
+<!-- About Section -->
+## 👋 About me
+
+<p align="justify">
+  Hi, my name is <strong>Jade</strong>, and I'm a front-end developer from Philippines. I am a self-taught developer who is really excited about learning new things, cutting-edge technologies, and skills I may apply to my job and projects in the future. 
+</p>
+<!-- End of About -->
+
 <!-- Highlight Section -->
-
 ### 🔥 GitHub Highlight
-<div align="center" style="width: 50%;">
-  <a href="https://jade-music-playlist.pages.dev/" target="_blank">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jade-banares&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-</div>
-<!-- End of Highlight -->
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://jade-music-playlist.pages.dev/" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=jade-banares&theme=github-dark-dimmed&hide_border=true&border_radius=1.5&locale=ja" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://jade-banares.vercel.app/" target="_blank">
+        <img src="https://api.roadmap.sh/v1-badge/wide/6487be4ee4bf41c65b04c35f?variant=dark" alt="roadmap.sh"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
+<!-- End of Highlight -->
+<br>
 
 [![Visits](https://komarev.com/ghpvc/?username=jade-banares&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://github.com/jade-banares)
 [![Gmail](https://img.shields.io/badge/Email_Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:codewithjad3@gmail.com)
 
-<!-- About Section -->
-
-## 👋 About me
-
-<p align="justify">
-  Hello, my name is <strong>Jade</strong>, and I'm a front-end developer from Makati, Philippines. I am a self-taught developer who is really excited about learning new things, cutting-edge technologies, and skills I may apply to my job and projects in the future. 
-</p>
-
-<!-- End of About -->
-
 <!-- Skills -->
-
 ## 💻 Technologies and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
@@ -47,19 +53,18 @@
 ![ReactJS](https://img.shields.io/badge/-React_JS-1d1f21?style=flat&logo=React&logoColor=66dbfb)
 ![Npm](https://img.shields.io/badge/-npm-1d1f21?style=flat&logo=NPM&logoColor=cd3e3d)
 ![GoogleAd](https://img.shields.io/badge/-Google_Adsense-1d1f21?style=flat&logo=GoogleAdsense&logoColor=F5BB18)
-
 <!-- End of Skills Section -->
 
 <!-- Featured Project -->
 ## 📂 Featured Projects
-<table bordercolor="#66b2b2">
+<table>
   <tr>
-    <td width="50%" valign="top">
+    <td  valign="top">
       <h3 align="center">Bookmark Landing page</h3>
       <br />
       <div align="center">
         <a target="_blank" href="https://bookmark-by-jade.pages.dev/">
-          <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/hwi1ergmy7tibqa5bvyf.jpg" width="90%" alt="Bookmark Landing Page" />
+          <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/hwi1ergmy7tibqa5bvyf.jpg" width="80%" alt="Bookmark Landing Page" />
         </a>
         </p>
         <br />
@@ -76,12 +81,12 @@
       </p>
       <br>
     </td>
-    <td width="50%" valign="top">
+    <td  valign="top">
       <h3 align="center">My Team Multi-page Website</h3>
       <br />
       <p align="center">
         <a target="_blank" href="https://multi-page-by-jade.pages.dev/">
-          <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/vivqu9zlxbcv5mgxdjxq.jpg" width="90%" alt="Multi Page Website" />
+          <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/vivqu9zlxbcv5mgxdjxq.jpg" width="80%" alt="Multi Page Website" />
         </a>
       </p>
       <br />
