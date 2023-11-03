@@ -9,13 +9,21 @@
 
 <!-- Highlight Section -->
 ### 🔥 GitHub Highlight
-<section>
-  <a href="https://jade-music-playlist.pages.dev/" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jade-banares&theme=github-dark-dimmed&hide_border=true&border_radius=1.5&locale=ja" alt="GitHub Streak"  />
-  </a>
-  <a href="https://jade-banares.vercel.app/" target="_blank">
-    <img src="https://api.roadmap.sh/v1-badge/wide/6487be4ee4bf41c65b04c35f?variant=dark" alt="roadmap.sh"/>
-  </a>
+<section align="center">
+  <table>
+    <tr>
+      <td  valign="top">
+       <a href="https://jade-music-playlist.pages.dev/" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=jade-banares&theme=github-dark-dimmed&hide_border=true&border_radius=1.5&locale=ja" alt="GitHub Streak"/>
+      </a>
+      </td>
+      <td  valign="top">
+         <a href="https://jade-banares.vercel.app/" target="_blank">
+        <img src="https://api.roadmap.sh/v1-badge/wide/6487be4ee4bf41c65b04c35f?variant=dark" alt="roadmap.sh"/>
+      </a>
+      </td>
+    </tr>
+  </table>
 </section>
 <!-- End of Highlight -->
 
