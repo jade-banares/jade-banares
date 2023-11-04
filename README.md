@@ -11,11 +11,11 @@
 ### 🔥 GitHub Highlight
 <div align="center">
   <a href="https://jade-music-playlist.pages.dev/" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jade-banares&theme=github-dark-dimmed&hide_border=true&border_radius=1.5&locale=ja" alt="GitHub Streak" width="80%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jade-banares&theme=github-dark-dimmed&hide_border=true&border_radius=1.5&locale=ja" alt="GitHub Streak"/>
   </a>
   <br/>
    <a href="https://jade-banares.vercel.app/" target="_blank">
-       <img src="https://api.roadmap.sh/v1-badge/wide/6487be4ee4bf41c65b04c35f?variant=dark" alt="roadmap.sh" width="80%"/>
+       <img src="https://api.roadmap.sh/v1-badge/wide/6487be4ee4bf41c65b04c35f?variant=dark" alt="roadmap.sh"/>
   </a>
 </div>
 <!-- End of Highlight -->
