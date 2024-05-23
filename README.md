@@ -2,7 +2,7 @@
 ### 👋 About me
 <section>
   <p align="justify">
-    Hi, my name is <strong>Jade</strong>, and I'm a front-end developer from the Philippines. I am a self-taught developer who is really excited about learning new things, cutting-edge technologies, and skills I may apply to my job and projects in the future. 
+    I'm Jade, a Front-end Developer from the Philippines. I've taught myself coding and I'm enthusiastic about exploring new things and technologies.
   </p>
 </section>
 <!-- End of About -->
