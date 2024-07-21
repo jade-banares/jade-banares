@@ -37,7 +37,6 @@
   ![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=flat&logo=Figma&logoColor=F24E1E)
   ![Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1d1f21?style=flat&logo=adobephotoshop&logoColor=2fa3f7)
   ![Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-1d1f21?style=flat&logo=adobeillustrator&logoColor=FC6D26)
-  ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-1d1f21?style=flat&logo=VSCode&logoColor=44abf4)
   ![Git](https://img.shields.io/badge/-Git-1d1f21?style=flat&logo=Git&logoColor=F05032)
   ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
   ![ReactJS](https://img.shields.io/badge/-React_JS-1d1f21?style=flat&logo=React&logoColor=66dbfb)
