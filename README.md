@@ -45,6 +45,7 @@
   ![Hosting](https://img.shields.io/badge/-Web_Hosting-1d1f21?style=flat&logo=icloud&logoColor=fff)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-1d1f21?style=flat&logo=nodedotjs&logoColor=#43853d)
   ![jQuery](https://img.shields.io/badge/-jQuery-1d1f21?style=flat&logo=jQuery&logoColor=0865a7)
+  ![jQuery](https://img.shields.io/badge/-Firebase-1d1f21?style=flat&logo=firebase&logoColor=dd2c00)
 
 </div>
 <!-- End of Skills Section -->
