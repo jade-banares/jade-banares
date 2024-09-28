@@ -2,7 +2,7 @@
 ### 👋 About me
 <section>
   <p align="justify">
-    I'm Jade, a Front-end Developer from the Philippines. I've taught myself coding and I'm enthusiastic about exploring new things and technologies.
+    I'm Jade, a Front-end Developer from the Philippines. I taught myself how to code and I love exploring new things and technologies.
   </p>
 </section>
 <!-- End of About -->
