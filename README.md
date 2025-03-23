@@ -41,7 +41,6 @@
   ![ReactJS](https://img.shields.io/badge/-React_JS-1d1f21?style=flat&logo=React&logoColor=66dbfb)
   ![NPM](https://img.shields.io/badge/-NPM-1d1f21?style=flat&logo=NPM&logoColor=cd3e3d)
   ![GoogleAd](https://img.shields.io/badge/-Google_Adsense-1d1f21?style=flat&logo=GoogleAdsense&logoColor=F5BB18)
-  ![Hosting](https://img.shields.io/badge/-Web_Hosting-1d1f21?style=flat&logo=icloud&logoColor=fff)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-1d1f21?style=flat&logo=nodedotjs&logoColor=#43853d)
   ![jQuery](https://img.shields.io/badge/-jQuery-1d1f21?style=flat&logo=jQuery&logoColor=0865a7)
   ![Firebase](https://img.shields.io/badge/-Firebase-1d1f21?style=flat&logo=firebase&logoColor=dd2c00)
