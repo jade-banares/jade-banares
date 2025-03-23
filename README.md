@@ -27,7 +27,6 @@
 <div align="center">
 
   ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
-  ![AMP](https://img.shields.io/badge/-AMP_HTML-1d1f21?style=flat&logo=amp&logoColor=085ff0)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
   ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=flat&logo=CSS3&logoColor=2c52e4)
   ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-1d1f21?style=flat&logo=tailwindcss&logoColor=3ebff8)
@@ -45,8 +44,9 @@
   ![Hosting](https://img.shields.io/badge/-Web_Hosting-1d1f21?style=flat&logo=icloud&logoColor=fff)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-1d1f21?style=flat&logo=nodedotjs&logoColor=#43853d)
   ![jQuery](https://img.shields.io/badge/-jQuery-1d1f21?style=flat&logo=jQuery&logoColor=0865a7)
-  ![jQuery](https://img.shields.io/badge/-Firebase-1d1f21?style=flat&logo=firebase&logoColor=dd2c00)
-
+  ![Firebase](https://img.shields.io/badge/-Firebase-1d1f21?style=flat&logo=firebase&logoColor=dd2c00)
+  ![axios](https://img.shields.io/badge/-Axios-1d1f21?style=flat&logo=axios&logoColor=5a29e3)
+  ![MongoDb](https://img.shields.io/badge/-MongoDB-1d1f21?style=flat&logo=mongodb&logoColor=00ee63)
 </div>
 <!-- End of Skills Section -->
 
