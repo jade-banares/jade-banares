@@ -46,6 +46,7 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-1d1f21?style=flat&logo=firebase&logoColor=dd2c00)
   ![axios](https://img.shields.io/badge/-Axios-1d1f21?style=flat&logo=axios&logoColor=5a29e3)
   ![MongoDb](https://img.shields.io/badge/-MongoDB-1d1f21?style=flat&logo=mongodb&logoColor=00ee63)
+  ![EJS](https://img.shields.io/badge/-EJS-1d1f21?style=flat&logo=ejs&logoColor=b4ca65)
 </div>
 <!-- End of Skills Section -->
 
