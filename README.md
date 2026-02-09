@@ -14,7 +14,7 @@
 ### 🔥 Highlights
 <div align="center">
   <a href="https://jade-music-playlist.pages.dev/" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jade-banares&theme=github-dark-dimmed&border_radius=5.5" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jade-banares&theme=dark&hide_border=true&border_radius=5.5&short_numbers=true" alt="GitHub Streak"/>
   </a>
 </div>
 <!-- End of Highlight -->
