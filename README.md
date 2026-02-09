@@ -20,11 +20,13 @@
 <!-- End of Highlight -->
 
 <br>
-
+<div align="center">
+  
 [![Visits](https://komarev.com/ghpvc/?username=jade-banares&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://jade-banares.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Email_Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:jade.arinal.banares@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%21-1d1f21?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jade-banares/)
 
+</div>
 
 <!-- Skills -->
 ### 💻 Technologies and Tools
