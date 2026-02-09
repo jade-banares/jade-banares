@@ -106,7 +106,7 @@
           <a href="https://github.com/data-sets/multi-page" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logoColor=fff" />
           </a>
-          <a href="https://multi-page-by-jade.pages.dev/" target="_blank">
+          <a href="https://app-my-team.vercel.app" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=icloud&logoColor=fff" />
           </a>
         </p>
