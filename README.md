@@ -94,7 +94,7 @@
       <h3 align="center">My Team Multi-page Website</h3>
       <br />
       <div align="center">
-        <a target="_blank" href="https://multi-page-by-jade.pages.dev/">
+        <a target="_blank" href="https://app-my-team.vercel.app/">
           <img 
             src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/vivqu9zlxbcv5mgxdjxq.jpg"
             style="max-width:500px; aspect-ratio:16/10; object-fit:cover;"
