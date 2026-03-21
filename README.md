@@ -91,28 +91,25 @@
     </td>
     <!-- Project 2 -->
     <td align="top" width="50%">
-      <h3 align="center">My Team Multi-page Website</h3>
+      <h3 align="center">TindaGo</h3>
       <br />
       <div align="center">
-        <a target="_blank" href="https://app-my-team.vercel.app/">
+        <a target="_blank" href="https://tinda-go.web.app/">
           <img 
-            src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/vivqu9zlxbcv5mgxdjxq.jpg"
+            src="https://imgur.com/A7wlmYK.jpg"
             style="max-width:500px; aspect-ratio:16/10; object-fit:cover;"
           />
         </a>
         <br />
         <br />
         <p align="center">
-          <a href="https://github.com/data-sets/multi-page" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logoColor=fff" />
-          </a>
-          <a href="https://app-my-team.vercel.app" target="_blank">
+          <a href="https://tinda-go.web.app/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=icloud&logoColor=fff" />
           </a>
         </p>
         <p align="center">
-          <strong>Built with HTML, CSS, and JavaScript,</strong>
-          A responsive multi-page website focused on modern layouts, accessibility, and clean UI design.
+          <strong>Built with React, Tailwind CSS, and Firebase (Firestore, Hosting, and Authentication),</strong>
+          TindaGO is a POS platform with real-time tracking, barcode scanning, product management, and secure authentication.
         </p>
       </div>
     </td>
