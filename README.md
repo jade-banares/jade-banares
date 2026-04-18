@@ -2,7 +2,7 @@
 ### 👋 About me
 <section>
   <p align="justify">
-    I'm Jade, a passionate <strong>Front-end Developer from the Philippines</strong>.  
+    I'm Jade, a passionate <strong>Full Stack Developer from the Philippines</strong>.  
     I’m self-taught, naturally curious, and love exploring new technologies, building real-world projects, and continuously improving my skills.  
     I enjoy transforming ideas into clean, responsive, and user-friendly web experiences.
   </p>
