@@ -114,6 +114,35 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <!-- Project 3 -->
+    <td align="top" width="50%">
+      <h3 align="center">MyTeam</h3>
+      <br />
+      <div align="center">
+         <a target="_blank" href="https://app-my-team.vercel.app/">
+          <img 
+            src="https://imgur.com/SpHEZBi.png"
+            style="max-width:500px; aspect-ratio:16/10; object-fit:cover;"
+          />
+        </a>
+        <br />
+        <br />
+        <p align="center">
+          <a href="https://github.com/jade-banares/multi-page" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logoColor=fff" />
+          </a>
+           <a href="https://app-my-team.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=icloud&logoColor=fff" />
+          </a>
+        </p>
+        <p align="center">
+          <strong>Built with React JS, SASS & Framer-motion,</strong>
+          MyTeam is a responsive website built to showcase a clean layout, consistent navigation, and organized content across multiple pages
+        </p>
+      </div>
+    </td>
+  </tr>
 </table>
 </section>
 <!--End of Featured Project -->
