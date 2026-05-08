@@ -142,6 +142,30 @@
         </p>
       </div>
     </td>
+    <!-- Project 4 -->
+    <td align="top" width="50%">
+      <h3 align="center">Zurl</h3>
+      <br />
+      <div align="center">
+         <a target="_blank" href="https://zurl-app.vercel.app/">
+          <img 
+            src="https://imgur.com/lmYAi8V.jpg"
+            style="max-width:500px; aspect-ratio:16/10; object-fit:cover;"
+          />
+        </a>
+        <br />
+        <br />
+        <p align="center">
+           <a href="https://zurl-app.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=icloud&logoColor=fff" />
+          </a>
+        </p>
+        <p align="center">
+          <strong>Built with React JS, Tailwind CSS, Firebase (Authentication) & MongoDB,</strong>
+          Zurl is a responsive web application created to help users generate custom short links through a clean layout, intuitive form design, and smooth user experience.
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
 </section>
